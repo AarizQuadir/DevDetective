@@ -1,16 +1,14 @@
-
+# DevDetective App
 DevDetective is a web application that allows users to search for GitHub profiles and retrieve detailed information about the user, including their repositories, followers, and other relevant data. This project aims to provide a simple and intuitive interface for exploring GitHub profiles.
 
-Table of Contents
+# Table of Contents
 Features
 Installation
 Usage
 Screenshots
-
-
 Contact
 
-Features
+# Features
 Search for GitHub profiles by username
 Display user details including profile picture, bio, location, and more
 View the number of repositories, followers, and following
@@ -23,7 +21,7 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/your-username/DevDetective.git
+git clone https://github.com/AarizQuadir/DevDetective.git
 Navigate to the project directory
 
 bash
@@ -36,11 +34,12 @@ Copy code
 open index.html
 or just double-click on the index.html file.
 
-Usage
+# Usage
 Open the index.html file in your web browser.
 Enter a GitHub username in the search bar.
 Click the "Search" button to retrieve and display the user's profile information.
-Screenshots
+
+# Screenshots
 displaying in light mode
 ![Screenshot 2024-05-18 150423](https://github.com/AarizQuadir/DevDetective/assets/167294376/2066f5ac-e32d-42b4-bec6-9bc222adac4c)
 
@@ -61,7 +60,7 @@ Commit your Changes (git commit -m 'Add some AmazingFeature')
 Push to the Branch (git push origin feature/AmazingFeature)
 Open a Pull Request
 
-Contact
+# Contact
 Name: Aariz
 Email: aarizquadir@example.com
 Project Link: https://github.com/AarizQuadir/DevDetective
