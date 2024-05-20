@@ -21,12 +21,12 @@ Clone the repository
 
 bash
 Copy code
-git clone https://github.com/AarizQuadir/DevDetective.git
+git clone https://github.com/AarizQuadir/GitSearch.git
 Navigate to the project directory
 
 bash
 Copy code
-cd DevDetective
+cd GitSearch
 Open index.html in your preferred web browser
 
 bash
@@ -41,13 +41,14 @@ Click the "Search" button to retrieve and display the user's profile information
 
 # Screenshots
 displaying in light mode
-![Screenshot 2024-05-18 150423](https://github.com/AarizQuadir/DevDetective/assets/167294376/2066f5ac-e32d-42b4-bec6-9bc222adac4c)
+![Screenshot 2024-05-20 204802](https://github.com/AarizQuadir/GitSearch-/assets/167294376/ba305cfe-36ba-4102-a0b3-72c6b9e3fc99)
 
 displating in dark mode
-![Screenshot 2024-05-18 150448](https://github.com/AarizQuadir/DevDetective/assets/167294376/99226a17-d3e9-45a7-84e0-2935f06148f0)
-the display of profile on clicking the link
+![Screenshot 2024-05-20 204743](https://github.com/AarizQuadir/GitSearch-/assets/167294376/0ceebd96-a28d-4f8a-8de3-6a40ec9284df)
 
-![Screenshot 2024-05-18 150531](https://github.com/AarizQuadir/DevDetective/assets/167294376/d8fd54a1-7f1b-4084-b886-513b54ce150a)
+the display of profile on clicking the link
+![Screenshot 2024-05-20 205022](https://github.com/AarizQuadir/GitSearch-/assets/167294376/af5b2a59-4a21-451b-9074-33ec671d8cc6)
+
 
 
 
