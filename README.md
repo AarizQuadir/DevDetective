@@ -1,5 +1,5 @@
-# DevDetective App
-DevDetective is a web application that allows users to search for GitHub profiles and retrieve detailed information about the user, including their repositories, followers, and other relevant data. This project aims to provide a simple and intuitive interface for exploring GitHub profiles.
+# GitSearch App
+GitSearch is a web application that allows users to search for GitHub profiles and retrieve detailed information about the user, including their repositories, followers, and other relevant data. This project aims to provide a simple and intuitive interface for exploring GitHub profiles.
 
 # Table of Contents
 Features
