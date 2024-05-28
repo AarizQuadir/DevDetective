@@ -64,7 +64,7 @@ Open a Pull Request
 # Contact
 Name: Aariz
 Email: aarizquadir@example.com
-Project Link: https://github.com/AarizQuadir/DevDetective
+Project Link: https://aarizquadir.github.io/GitSearch-/
 
 
 
